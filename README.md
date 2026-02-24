@@ -14,3 +14,7 @@ Run the script with paging to avoid freezing your terminal:
 
 ```bash
 bash ./aws_resource_tracker.sh | less
+
+## Requirements
+- AWS CLI installed
+- Proper IAM role or AWS credentials configured
